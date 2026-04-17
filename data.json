@@ -1,0 +1,20 @@
+{
+    "978-93-5451-814-0": {
+        "title": "19th century English  Literatue-I",
+        "author": "Mr. Sopan L. Gove",
+        "isbn": "978-93-5451-814-0",
+        "available": false
+    },
+    "978-93-5382-344-3": {
+        "title": "Hermatalogy And Immunology",
+        "author": "Dr.L.N.Meshram",
+        "isbn": "978-93-5382-344-3",
+        "available": false
+    },
+    "978-93-87990-91-3": {
+        "title": "Practical In Physical Chemistry",
+        "author": "Dr. P.B Thakur",
+        "isbn": "978-93-87990-91-3",
+        "available": true
+    }
+}
