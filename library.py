@@ -1,6 +1,6 @@
 import json
 import os
-from typing import Dict, List, Optional
+from typing import Dict, List, optional
 
 class Book:
     def __init__(self, title: str, author: str, isbn: str):
